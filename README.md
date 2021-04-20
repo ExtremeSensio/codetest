@@ -21,9 +21,14 @@
 
 ### Step 4
 - Follow the the code test instruction from the test.php file
-- Do the test ;)
 
 ### Step 5
+- Check the preview.jpg and code the style in the test.css file
+
+### Step 6
+- Code a small javascript function to open an alert box with the data title on click
+
+### Step 7
 - Create a git branch with your fristname (e.g codetest-yannick) 
 - create a commit with your code
 - push your code
